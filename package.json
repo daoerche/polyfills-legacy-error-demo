@@ -1,0 +1,9 @@
+{
+  "name": "polyfills-legacy-error-demo",
+  "description": "Polyfills-legacy error demo.",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "http-server": "^14.1.0",
+    "vite": "^2.9.9"
+  }
+}
